@@ -43,4 +43,6 @@ c) For the last question we looked into group of Countries speaking a derivative
 
 For more information about the analysis please visit the following blog post (https://medium.com/@albane.beltzung/tell-me-how-you-pronounce-gif-and-ill-tell-you-where-you-re-from-c5993a92ab39)
 
+** Please note the dataset could not be added to te github repository as it was too big **
+
 
