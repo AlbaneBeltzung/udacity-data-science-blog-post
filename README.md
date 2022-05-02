@@ -12,8 +12,11 @@ There are three most used ways to pronounce it. Having said that, the majority o
 * .GIF where each character is being pronounced G.I.F.
 
 In order to investigate the right pronounciation we need to understand what is the global preference. Furthermore, since there's usually not one global right way, I would like to include the underlying language family. For this purpose I am going to integrate country related data in this analysis and hope to answer these three questions:
-a) What's the globally preferred way to saying GIF? 
+
+a) What's the globally preferred way to saying GIF?
+
 b) Are there any language specific preferences to the pronounciation?
+
 c) Can you derive someone's country of origin based on their .GIF pronounciation?
 
 2) Data Understanding
