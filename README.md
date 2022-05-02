@@ -41,7 +41,6 @@ b) Taking in example european responses only, and applying a mapping from Countr
 
 c) For the last question we looked into group of Countries speaking a derivative of italic-romance language. Even in this group I could find disparities.  Gallo-iberian (French) and italo-dalmatian (Italian) spaces would pronounce a soft G, whereas the ibero-romance area (Spanish, Portuguese) would use a hard G. The answer is therefore a shade of grey. It is not directly possible to predict someone home Country by hearing them pronounce GIF - but inside Europe it's possible to make strong, geopolitical area assumptions.
 
-
-
+For more information about the analysis please visit the following blog post (https://medium.com/@albane.beltzung/tell-me-how-you-pronounce-gif-and-ill-tell-you-where-you-re-from-c5993a92ab39)
 
 
